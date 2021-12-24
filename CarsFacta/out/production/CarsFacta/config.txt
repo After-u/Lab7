@@ -1,0 +1,9 @@
+BodyStoreSize=100
+EngineStoreSize=100
+AccessoryStoreSize=100
+CarStoreSize=100
+AccessoryProviders=12
+BodyProviders=5
+EngineProviders=8
+Workers=10
+Dealers=4
